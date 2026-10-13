@@ -1,5 +1,4 @@
 
-! ['MasterHead]{https://media.licdn.com/dms/image/v2/D4D35AQE0iL4BiA_cmw/profile-framedphoto-shrink_400_400/B4DaE205yVHoAY-/0/1791921200678?e=1792530000&v=beta&t=uCqAMwHlfPhbOpIOWkoXm9FKmfLBHliUw3gZ_2Hns1A'}
 <h1 align="center">Hi 👋, I'm Nurlan</h1>
 <h3 align="center">Python Developer | Machine Learning · Generative AI · AI Agents · AI Automation</h3>
 
